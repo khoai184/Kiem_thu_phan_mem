@@ -1,6 +1,6 @@
 # Kiểm thử phần mềm
 
-Repository này dùng để lưu trữ bài tập, tài liệu và project của môn Kiểm thử phần mềm.
+Repository này dùng để lưu trữ bài tập, tài liệu và dự án của môn Kiểm thử phần mềm.
 
 ## Thông tin môn học
 
@@ -23,13 +23,13 @@ Repository này dùng để lưu trữ bài tập, tài liệu và project của
 
 ## Các kết quả bài tập
 
-- Assignments 01: Bài tập thực hành Can't unseen
+- Bài tập 01: Bài tập thực hành Can't unseen
 
   - Điểm: 7930
   - Rank: Diamond
   - Bằng chức trong folder /assignments/assignments-01
 
-- Assignments 02: Bài tập thực hành kiểm thử với JUnit
-  - Trạng thái: Hoàn thành (SUCCESS)
+- Bài tập 02: Bài tập thực hành kiểm thử với JUnit
+  - Trạng thái: Hoàn thành
   - Nội dung: Phân tích điểm số học sinh và Unit Test với JUnit 5
-  - Bằng chứng trong folder /assignments/assignments02/unit-test
+  - Bằng chứng trong thư mục /assignments/assignments02/unit-test
