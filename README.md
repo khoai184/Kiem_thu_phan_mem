@@ -27,7 +27,8 @@ Repository này dùng để lưu trữ bài tập, tài liệu và dự án củ
 
   - Điểm: 7930
   - Rank: Diamond
-  - Bằng chức trong thư mục /assignments/assignments-01
+  - Bằng chức trong thư mục /assignments/assignments01
+  <img src="/assignments/assignments01/Cant-unseen-score.jpg" width="400">
 
 - Bài tập 02: Bài tập thực hành kiểm thử với JUnit
   - Trạng thái: Hoàn thành
