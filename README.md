@@ -7,7 +7,7 @@ Repository này dùng để lưu trữ bài tập, tài liệu và dự án củ
 - Môn học: Kiểm thử phần mềm
 - Giảng viên: Trương Anh Hoàng
 - Học kỳ: HK2 2025–2026
-- Trường/Khoa: Trường Đại Học CMC
+- Trường/Khoa: Trường Đại Học CMC / Khoa công nghệ thông tin và truyền thông
 
 ## Sinh viên
 
